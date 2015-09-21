@@ -1,0 +1,3 @@
+SQL Comparator is a C# Windows application designed to facilitate rapid minimal change database validation, which is capable of connecting to any ODBC compliant data source such as Microsoft SQL Server or Oracle.
+
+SQL Comparator runs two user defined queries and compares the results in a graphical mode designed to facilitate the identification of minimal differences in complex tables.  The tool will calculate and highlight any row, column, and cell-based differences between the two datasets.  The tabular data is displayed in two datagrids which are positionally synchronized and where differing cells are visually highlighted.
